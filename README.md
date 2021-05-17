@@ -1,3 +1,3 @@
 # Projeto-Auxilio-Emergencial
-Projeto de conclus  do Bloco 1 Generation
+Projeto de conclusão do Bloco 1 Generation
 "JavaAuxilia"
